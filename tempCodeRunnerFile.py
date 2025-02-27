@@ -1,0 +1,5 @@
+scrollbar=Scrollbar(root)
+# scrollbar.pack(side=RIGHT,fill=Y)
+# textarea=Text(root,yscrollcommand=scrollbar.set,font=('arial',16),undo=True)
+# textarea.pack(fill=BOTH,expand=True)
+# scrollbar.config(command=textarea.yview)
